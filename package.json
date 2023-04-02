@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.7.4",
     "@next/font": "13.1.1",
+    "apollo-link-context": "^1.0.20",
+    "formik": "^2.2.9",
+    "graphql": "^16.6.0",
     "next": "13.1.1",
+    "node-fetch": "^3.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-select": "^5.7.0",
+    "recharts": "^2.4.3",
+    "sweetalert2": "^11.7.1",
+    "yup": "^0.32.11"
   }
 }
